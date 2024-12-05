@@ -9,7 +9,7 @@
 •
 [Dashboard](#computer-dashboard)
 •
-[Developers](#post_office-developers)
+[Developers](#rabbit-developers)
 •
 
 </div>
@@ -93,7 +93,7 @@ Penjelasan singkat untuk masing-masing library yang digunakan
 Berikut link dashboard :
 [Dashboard kelompok kami]
 
-## :post_office: Developers
+## :rabbit: Developers
 - Monica Rahmah Fauziah (G1501231057)
 - Siti Hafsah           (G1501231060)
 - Fajar Athallah Yusuf  (G1501231038)
