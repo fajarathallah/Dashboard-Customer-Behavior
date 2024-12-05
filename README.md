@@ -59,6 +59,21 @@ Klasifikasi: Prediksi akhir adalah hasil voting mayoritas dari semua pohon.
 1. Memprediksi harga saham berdasarkan data historis.
 2. Mengklasifikasikan penyakit berdasarkan data kesehatan pasien.
 
+## Dokumentasi
+Penjelasan singkat untuk masing-masing library yang digunakan
+
+1.	library(shiny) adalah library untuk membangun aplikasi web interaktif menggunakan R. Memungkinkan pembuatan dashboard atau aplikasi yang interaktif dengan antarmuka pengguna berbasis web.
+2.	library(rpart) adalah library untuk membangun pohon keputusan (decision trees) untuk masalah regresi atau klasifikasi.
+3.	library(shinydashboard) adalah paket yang memungkinkan pembuatan dashboard interaktif di dalam aplikasi shiny, dengan layout dan komponen seperti tab, sidebar, dan panel.
+4.	library(ggplot2) adalah library untuk visualisasi data yang menggunakan sistem grammar of graphics. Memudahkan pembuatan grafik yang kompleks dengan sintaksis yang jelas.
+5.	library(dplyr) adalah library untuk manipulasi data. Mempermudah pengolahan data dalam bentuk tabel atau data frame dengan operasi seperti filtering, grouping, dan summarizing.
+6.	library(plotly) adalah library untuk membuat visualisasi interaktif, termasuk grafik 3D dan peta. Bisa digunakan dalam aplikasi shiny untuk menambah interaktivitas.
+7.	library(DT) adalah library untuk menampilkan tabel interaktif di R, menggunakan paket DataTables dari JavaScript. Dapat digunakan untuk menampilkan data dengan fitur pencarian dan pengurutan.
+8.	library(leaflet) adalah library untuk membuat peta interaktif. Dapat digunakan untuk menampilkan data geografis atau peta dinamis dalam aplikasi web.
+9.	library(highcharter) adalah library untuk visualisasi data interaktif menggunakan Highcharts. Memungkinkan pembuatan grafik canggih dengan banyak opsi interaktivitas.
+10.	library(caret) adalah library untuk memfasilitasi proses pelatihan dan evaluasi model pembelajaran mesin (machine learning).
+11.	library(randomForest) adalah library untuk membangun model pembelajaran mesin berbasis ensemble menggunakan banyak pohon keputusan (decision trees) dalam Random Forest.
+
 
 
 ## 💻 : Dashboard
