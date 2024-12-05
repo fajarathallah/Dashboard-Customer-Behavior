@@ -1,9 +1,9 @@
 # Dashboard Customer Behavior
-[Deskripsi Dashboard](#scroll-Deskripsi-Dashboard)
+[Deskripsi Dashboard](#scroll-deskripsi-dashboard)
 •
-[Demo](#dvd-demo)
+[Dataset](#dvd-dataset)
 •
-[Dokumentasi](#blue_book-dokumentasi)
+[Regresi Linear dan Random Forest](#blue_book-dokumentasi)
 •
 [Sumber Data](#heavy_check_mark-deskripsi-data)
 •
@@ -13,10 +13,10 @@
 </div>
 
 
-## :scroll: 📖 Deskripsi Dashboard 
+## :scroll: Deskripsi Dashboard 
 Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif. Pengguna dapat memilih dataset bawaan atau dapat mengunggah dataset sendiri.
 
-## 🖥️ : Deskripsi Dataset
+## :scroll: 🖥️  Dataset
 #### Konteks:
 Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan wawasan yang komprehensif tentang preferensi, kecenderungan, dan pola konsumen selama pengalaman belanja mereka. Dataset ini mencakup beragam variabel, termasuk informasi demografis, riwayat pembelian, preferensi produk, frekuensi belanja, dan perilaku belanja online/luring. Dengan kumpulan data yang kaya ini, analis dan peneliti dapat mempelajari seluk-beluk proses pengambilan keputusan konsumen, membantu bisnis dalam menyusun strategi pemasaran yang ditargetkan, mengoptimalkan penawaran produk, dan meningkatkan kepuasan pelanggan secara keseluruhan.
 
@@ -43,7 +43,7 @@ Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan gambaran umum terperi
 - Metode Pembayaran: Menentukan cara pembayaran yang digunakan oleh pelanggan (misalnya, kartu kredit, uang tunai), memberikan wawasan tentang opsi pembayaran yang disukai.
 - Frekuensi Pembelian: Menunjukkan seberapa sering pelanggan terlibat dalam aktivitas pembelian, sebuah metrik penting untuk menilai loyalitas pelanggan dan nilai seumur hidup.
   
-## 📊 : Regresi Linear dan Random Forest
+## :scroll: 📊 Regresi Linear dan Random Forest
 ### 1. Regresi Linear
 Regresi linear adalah teknik statistik yang digunakan untuk memodelkan hubungan antara satu atau lebih variabel independen (prediktor) dengan variabel dependen (target). Hubungan ini diasumsikan bersifat linear. Jenis Regresi Linear terbagi menjadi 2 yaitu Regresi Linear Sederhana yang	melibatkan satu variabel independen dan Regresi Linear Berganda yang melibatkan lebih dari satu variabel independen.
 #### Asumsi Regresi Linear
@@ -69,7 +69,7 @@ Klasifikasi: Prediksi akhir adalah hasil voting mayoritas dari semua pohon.
 1. Memprediksi harga saham berdasarkan data historis.
 2. Mengklasifikasikan penyakit berdasarkan data kesehatan pasien.
 
-## 📚 : Dokumentasi
+## :scroll: 📚 Dokumentasi
 Penjelasan singkat untuk masing-masing library yang digunakan
 
 1.	library(shiny) adalah library untuk membangun aplikasi web interaktif menggunakan R. Memungkinkan pembuatan dashboard atau aplikasi yang interaktif dengan antarmuka pengguna berbasis web.
@@ -86,11 +86,11 @@ Penjelasan singkat untuk masing-masing library yang digunakan
 
 
 
-## 💻 : Dashboard
+## :scroll: 💻 Dashboard
 Berikut link dashboard :
 [Dashboard kelompok kami]
 
-## 🏛️ : Developers
+## :scroll: 🏛️ Developers
 - Monica Rahmah Fauziah (G1501231057)
 - Siti Hafsah           (G1501231060)
 - Fajar Athallah Yusuf  (G1501231038)
