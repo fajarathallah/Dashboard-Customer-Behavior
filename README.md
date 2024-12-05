@@ -1,3 +1,10 @@
+<p align="center">
+  <img width="1000" height="400" src="Data/images.png">
+</p>
+
+<div align="center">
+
+  
 # Dashboard Customer Behavior
 [Deskripsi Dashboard](#scroll-deskripsi-dashboard)
 •
