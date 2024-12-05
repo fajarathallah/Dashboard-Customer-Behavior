@@ -5,11 +5,11 @@
 •
 [Metode](#bar_chart-metode)
 •
-[Dokumentasi](#hbookmark_tabs-data)
+[Dokumentasi](#hbookmark_tabs-dokumentasi)
 •
 [Dashboard](#computer-dashboard)
 •
-[Tim Pengembang](#post_office-tim-pengembang)
+[Developers](#post_office-tim-developers)
 •
 
 </div>
