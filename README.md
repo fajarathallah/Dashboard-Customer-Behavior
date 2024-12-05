@@ -3,7 +3,7 @@
 •
 [Dataset](#blue_book-dataset)
 •
-[Regresi Linear dan Random Forest](#bar_chart-regresi-linear-dan-random-forest)
+[Metode](#bar_chart-metode)
 •
 [Dokumentasi](#hbookmark_tabs-data)
 •
@@ -45,7 +45,8 @@ Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan gambaran umum terperi
 - Metode Pembayaran: Menentukan cara pembayaran yang digunakan oleh pelanggan (misalnya, kartu kredit, uang tunai), memberikan wawasan tentang opsi pembayaran yang disukai.
 - Frekuensi Pembelian: Menunjukkan seberapa sering pelanggan terlibat dalam aktivitas pembelian, sebuah metrik penting untuk menilai loyalitas pelanggan dan nilai seumur hidup.
   
-## :bar_chart: Regresi Linear dan Random Forest
+## :bar_chart: Metode
+## Regresi Linear dan Random Forest
 ### 1. Regresi Linear
 Regresi linear adalah teknik statistik yang digunakan untuk memodelkan hubungan antara satu atau lebih variabel independen (prediktor) dengan variabel dependen (target). Hubungan ini diasumsikan bersifat linear. Jenis Regresi Linear terbagi menjadi 2 yaitu Regresi Linear Sederhana yang	melibatkan satu variabel independen dan Regresi Linear Berganda yang melibatkan lebih dari satu variabel independen.
 #### Asumsi Regresi Linear
