@@ -5,14 +5,14 @@ This Repositories include syntax of R to make dashboard using ShinnyApp.
 ## 📖 : Deskripsi Dashboard
 Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif. Pengguna dapat memilih dataset bawaan atau dapat mengunggah dataset sendiri.
 
-## : Deskripsi Dataset
-Konteks:
+## 🖥️ : Deskripsi Dataset
+### Konteks:
 Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan wawasan yang komprehensif tentang preferensi, kecenderungan, dan pola konsumen selama pengalaman belanja mereka. Dataset ini mencakup beragam variabel, termasuk informasi demografis, riwayat pembelian, preferensi produk, frekuensi belanja, dan perilaku belanja online/luring. Dengan kumpulan data yang kaya ini, analis dan peneliti dapat mempelajari seluk-beluk proses pengambilan keputusan konsumen, membantu bisnis dalam menyusun strategi pemasaran yang ditargetkan, mengoptimalkan penawaran produk, dan meningkatkan kepuasan pelanggan secara keseluruhan.
 
-Isi
+### Isi
 Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan gambaran umum terperinci tentang preferensi konsumen dan perilaku pembelian. Ini mencakup informasi demografis, riwayat pembelian, preferensi produk, dan saluran belanja pilihan (online atau offline). Dataset ini sangat penting bagi bisnis yang ingin menyesuaikan strategi mereka untuk memenuhi kebutuhan pelanggan dan meningkatkan pengalaman berbelanja mereka, yang pada akhirnya mendorong penjualan dan loyalitas.
 
-Daftar Istilah Dataset (berdasarkan kolom)
+### Daftar Istilah Dataset (berdasarkan kolom)
 ID Pelanggan: Pengenal unik yang diberikan kepada setiap pelanggan, yang memfasilitasi pelacakan dan analisis perilaku belanja mereka dari waktu ke waktu.
 
 - Usia: Usia pelanggan, memberikan informasi demografis untuk segmentasi dan strategi pemasaran yang ditargetkan.
