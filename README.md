@@ -1,8 +1,19 @@
 # Dashboard Customer Behavior
-This Repositories include syntax of R to make dashboard using ShinnyApp. 
+[Deskripsi Dashboard](#scroll-Deskripsi Dashboard)
+•
+[Demo](#dvd-demo)
+•
+[Dokumentasi](#blue_book-dokumentasi)
+•
+[Sumber Data](#heavy_check_mark-deskripsi-data)
+•
+[Tim Pengembang](#smiley_cat-tim-pengembang)
+•
+
+</div>
 
 
-## 📖 : Deskripsi Dashboard
+## :scroll: 📖 Deskripsi Dashboard 
 Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif. Pengguna dapat memilih dataset bawaan atau dapat mengunggah dataset sendiri.
 
 ## 🖥️ : Deskripsi Dataset
