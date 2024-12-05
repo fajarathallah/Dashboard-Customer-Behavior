@@ -6,13 +6,13 @@ This Repositories include syntax of R to make dashboard using ShinnyApp.
 Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif. Pengguna dapat memilih dataset bawaan atau dapat mengunggah dataset sendiri.
 
 ## 🖥️ : Deskripsi Dataset
-### Konteks:
+#### Konteks:
 Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan wawasan yang komprehensif tentang preferensi, kecenderungan, dan pola konsumen selama pengalaman belanja mereka. Dataset ini mencakup beragam variabel, termasuk informasi demografis, riwayat pembelian, preferensi produk, frekuensi belanja, dan perilaku belanja online/luring. Dengan kumpulan data yang kaya ini, analis dan peneliti dapat mempelajari seluk-beluk proses pengambilan keputusan konsumen, membantu bisnis dalam menyusun strategi pemasaran yang ditargetkan, mengoptimalkan penawaran produk, dan meningkatkan kepuasan pelanggan secara keseluruhan.
 
-### Isi
+#### Isi
 Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan gambaran umum terperinci tentang preferensi konsumen dan perilaku pembelian. Ini mencakup informasi demografis, riwayat pembelian, preferensi produk, dan saluran belanja pilihan (online atau offline). Dataset ini sangat penting bagi bisnis yang ingin menyesuaikan strategi mereka untuk memenuhi kebutuhan pelanggan dan meningkatkan pengalaman berbelanja mereka, yang pada akhirnya mendorong penjualan dan loyalitas.
 
-### Daftar Istilah Dataset (berdasarkan kolom)
+#### Daftar Istilah Dataset (berdasarkan kolom)
 ID Pelanggan: Pengenal unik yang diberikan kepada setiap pelanggan, yang memfasilitasi pelacakan dan analisis perilaku belanja mereka dari waktu ke waktu.
 
 - Usia: Usia pelanggan, memberikan informasi demografis untuk segmentasi dan strategi pemasaran yang ditargetkan.
@@ -34,9 +34,9 @@ ID Pelanggan: Pengenal unik yang diberikan kepada setiap pelanggan, yang memfasi
 - Frekuensi Pembelian: Menunjukkan seberapa sering pelanggan terlibat dalam aktivitas pembelian, sebuah metrik penting untuk menilai loyalitas pelanggan dan nilai seumur hidup.
   
 ## 📊 : Regresi Linear dan Random Forest
-## 1. Regresi Linear
+### 1. Regresi Linear
 Regresi linear adalah teknik statistik yang digunakan untuk memodelkan hubungan antara satu atau lebih variabel independen (prediktor) dengan variabel dependen (target). Hubungan ini diasumsikan bersifat linear. Jenis Regresi Linear terbagi menjadi 2 yaitu Regresi Linear Sederhana yang	melibatkan satu variabel independen dan Regresi Linear Berganda yang melibatkan lebih dari satu variabel independen.
-### Asumsi Regresi Linear
+#### Asumsi Regresi Linear
 1.	Hubungan antara variabel independen dan dependen bersifat linear.
 2.	Residual (galat) terdistribusi normal.
 3.	Variansi residual konstan (homoskedastisitas).
@@ -45,8 +45,8 @@ Regresi linear adalah teknik statistik yang digunakan untuk memodelkan hubungan 
 1. Memprediksi harga rumah berdasarkan luas tanah, jumlah kamar, dan lokasi.
 2. Menentukan hubungan antara konsumsi kalori dan berat badan.
  
-## 2. Random Forest
-Random Forest adalah algoritma pembelajaran mesin berbasis ensemble yang menggabungkan banyak pohon keputusan (decision trees) untuk meningkatkan akurasi dan mengurangi overfitting. ### Algoritma ini dapat digunakan untuk regresi dan klasifikasi.
+### 2. Random Forest
+Random Forest adalah algoritma pembelajaran mesin berbasis ensemble yang menggabungkan banyak pohon keputusan (decision trees) untuk meningkatkan akurasi dan mengurangi overfitting. #### Algoritma ini dapat digunakan untuk regresi dan klasifikasi.
 Cara Kerja Random Forest
 1.	Bagging (Bootstrap Aggregating):
 Membuat beberapa subset data dari dataset pelatihan menggunakan sampling dengan pengembalian (bootstrapping).
@@ -55,11 +55,11 @@ Setiap subset data digunakan untuk melatih satu pohon keputusan. Pada setiap spl
 3.	Prediksi:
 Regresi: Prediksi akhir adalah rata-rata dari prediksi semua pohon.
 Klasifikasi: Prediksi akhir adalah hasil voting mayoritas dari semua pohon.
-### Contoh Penggunaan1
+#### Contoh Penggunaan1
 1. Memprediksi harga saham berdasarkan data historis.
 2. Mengklasifikasikan penyakit berdasarkan data kesehatan pasien.
 
-## Dokumentasi
+#### 📚 : Dokumentasi
 Penjelasan singkat untuk masing-masing library yang digunakan
 
 1.	library(shiny) adalah library untuk membangun aplikasi web interaktif menggunakan R. Memungkinkan pembuatan dashboard atau aplikasi yang interaktif dengan antarmuka pengguna berbasis web.
