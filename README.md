@@ -23,7 +23,7 @@
 
 
 ## :scroll: Deskripsi Dashboard 
-Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif. Pengguna dapat memilih dataset bawaan atau dapat mengunggah dataset sendiri.
+Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif.
 
 ## :blue_book: Dataset
 #### Konteks:
