@@ -34,7 +34,7 @@ ID Pelanggan: Pengenal unik yang diberikan kepada setiap pelanggan, yang memfasi
 - Frekuensi Pembelian: Menunjukkan seberapa sering pelanggan terlibat dalam aktivitas pembelian, sebuah metrik penting untuk menilai loyalitas pelanggan dan nilai seumur hidup.
   
 ## 📊 : Regresi Linear dan Random Forest
-### 1. Regresi Linear
+## 1. Regresi Linear
 Regresi linear adalah teknik statistik yang digunakan untuk memodelkan hubungan antara satu atau lebih variabel independen (prediktor) dengan variabel dependen (target). Hubungan ini diasumsikan bersifat linear. Jenis Regresi Linear terbagi menjadi 2 yaitu Regresi Linear Sederhana yang	melibatkan satu variabel independen dan Regresi Linear Berganda yang melibatkan lebih dari satu variabel independen.
 ### Asumsi Regresi Linear
 1.	Hubungan antara variabel independen dan dependen bersifat linear.
