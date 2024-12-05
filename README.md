@@ -13,8 +13,7 @@ Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan wawasan yang komprehe
 Dataset Perilaku Konsumen dan Kebiasaan Belanja memberikan gambaran umum terperinci tentang preferensi konsumen dan perilaku pembelian. Ini mencakup informasi demografis, riwayat pembelian, preferensi produk, dan saluran belanja pilihan (online atau offline). Dataset ini sangat penting bagi bisnis yang ingin menyesuaikan strategi mereka untuk memenuhi kebutuhan pelanggan dan meningkatkan pengalaman berbelanja mereka, yang pada akhirnya mendorong penjualan dan loyalitas.
 
 #### Daftar Istilah Dataset (berdasarkan kolom)
-ID Pelanggan: Pengenal unik yang diberikan kepada setiap pelanggan, yang memfasilitasi pelacakan dan analisis perilaku belanja mereka dari waktu ke waktu.
-
+- ID Pelanggan: Pengenal unik yang diberikan kepada setiap pelanggan, yang memfasilitasi pelacakan dan analisis perilaku belanja mereka dari waktu ke waktu.
 - Usia: Usia pelanggan, memberikan informasi demografis untuk segmentasi dan strategi pemasaran yang ditargetkan.
 - Jenis Kelamin: Identifikasi jenis kelamin pelanggan, variabel demografis utama yang memengaruhi preferensi produk dan pola pembelian.
 - Barang yang Dibeli: Produk atau item spesifik yang dipilih oleh pelanggan selama transaksi.
