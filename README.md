@@ -42,8 +42,8 @@ Regresi linear adalah teknik statistik yang digunakan untuk memodelkan hubungan 
 3.	Variansi residual konstan (homoskedastisitas).
 4.	Tidak ada multikolinearitas antara variabel independen.
 #### Contoh Penggunaan
-•	Memprediksi harga rumah berdasarkan luas tanah, jumlah kamar, dan lokasi.
-•	Menentukan hubungan antara konsumsi kalori dan berat badan.
+1. Memprediksi harga rumah berdasarkan luas tanah, jumlah kamar, dan lokasi.
+2. Menentukan hubungan antara konsumsi kalori dan berat badan.
  
 ## 2. Random Forest
 Random Forest adalah algoritma pembelajaran mesin berbasis ensemble yang menggabungkan banyak pohon keputusan (decision trees) untuk meningkatkan akurasi dan mengurangi overfitting. ### Algoritma ini dapat digunakan untuk regresi dan klasifikasi.
@@ -55,9 +55,9 @@ Setiap subset data digunakan untuk melatih satu pohon keputusan. Pada setiap spl
 3.	Prediksi:
 Regresi: Prediksi akhir adalah rata-rata dari prediksi semua pohon.
 Klasifikasi: Prediksi akhir adalah hasil voting mayoritas dari semua pohon.
-### Contoh Penggunaan
-•	Memprediksi harga saham berdasarkan data historis.
-•	Mengklasifikasikan penyakit berdasarkan data kesehatan pasien.
+### Contoh Penggunaan1
+1. Memprediksi harga saham berdasarkan data historis.
+2. Mengklasifikasikan penyakit berdasarkan data kesehatan pasien.
 
 
 
