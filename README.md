@@ -5,11 +5,11 @@
 •
 [Metode](#bar_chart-metode)
 •
-[Dokumentasi](#hbookmark_tabs-dokumentasi)
+[Dokumentasi](#bookmark_tabs-dokumentasi)
 •
 [Dashboard](#computer-dashboard)
 •
-[Developers](#post_office-tim-developers)
+[Developers](#post_office-developers)
 •
 
 </div>
@@ -72,7 +72,7 @@ Klasifikasi: Prediksi akhir adalah hasil voting mayoritas dari semua pohon.
 1. Memprediksi harga saham berdasarkan data historis.
 2. Mengklasifikasikan penyakit berdasarkan data kesehatan pasien.
 
-## :bookmark_tabs:  Dokumentasi
+## :bookmark_tabs: Dokumentasi
 Penjelasan singkat untuk masing-masing library yang digunakan
 
 1.	library(shiny) adalah library untuk membangun aplikasi web interaktif menggunakan R. Memungkinkan pembuatan dashboard atau aplikasi yang interaktif dengan antarmuka pengguna berbasis web.
