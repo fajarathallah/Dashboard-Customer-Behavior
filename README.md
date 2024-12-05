@@ -80,7 +80,7 @@ Penjelasan singkat untuk masing-masing library yang digunakan
 Berikut link dashboard :
 [Dashboard kelompok kami]
 
-## 🐖 : Developers
+## 🏛️ : Developers
 - Monica Rahmah Fauziah (G1501231057)
 - Siti Hafsah           (G1501231060)
 - Fajar Athallah Yusuf  (G1501231038)
