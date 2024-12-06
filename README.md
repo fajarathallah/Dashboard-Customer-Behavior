@@ -98,7 +98,7 @@ Penjelasan singkat untuk masing-masing library yang digunakan
 
 ## :computer: Dashboard
 Berikut link dashboard :
-[Dashboard kelompok kami]
+[[Dashboard kelompok kami]](https://fajarathallah.shinyapps.io/Dashboard/)
 
 ## :rabbit: Developers
 - Monica Rahmah Fauziah (G1501231057)
