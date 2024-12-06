@@ -23,7 +23,19 @@
 
 
 ## :scroll: Deskripsi Dashboard 
-Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif.
+Dashboard ini dirancang secara interaktif untuk mendukung proses analisis data dengan fitur-fitur yang intuitif dan informatif. Dashboard ini bertujuan untuk menganalisis perilaku pelanggan dengan menggunakan data interaktif yang mencakup berbagai dimensi seperti kategori produk, metode pembayaran, lokasi, usia, hingga pola pengeluaran. Melalui dashboard interaktif, pengguna dapat mengeksplorasi data secara mendalam untuk mendapatkan wawasan tentang:
+
+1. Preferensi Pelanggan: Produk atau kategori yang paling banyak diminati berdasarkan volume penjualan dan nilai pengeluaran.
+2. Metode Pembayaran Terpopuler: Mengetahui metode pembayaran yang sering digunakan untuk mempermudah perencanaan sistem pembayaran yang lebih efisien.
+3. Distribusi Pelanggan: Melihat segmentasi pelanggan berdasarkan demografi seperti usia, lokasi, dan pola belanja.
+4. Rating dan Ulasan: Menilai bagaimana pengalaman pelanggan terhadap produk tertentu melalui analisis ulasan dan rating.
+5. Frekuensi Pembelian dan Pengiriman: Mengidentifikasi kebiasaan pembelian pelanggan dan preferensi pengiriman untuk optimalisasi rantai pasok.
+
+Dengan proyek ini, kami membantu pemilik bisnis dan pengambil keputusan untuk memahami perilaku pelanggan secara mendalam, sehingga mereka dapat:
+- Menyusun strategi pemasaran yang lebih terarah.
+- Mengoptimalkan pengalaman pelanggan.
+- Meningkatkan loyalitas pelanggan dengan pendekatan yang lebih personal.
+Dashboard ini menggunakan pendekatan berbasis data dan visualisasi interaktif untuk memudahkan eksplorasi serta pengambilan keputusan strategis berbasis fakta.
 
 ## :blue_book: Dataset
 #### Konteks:
